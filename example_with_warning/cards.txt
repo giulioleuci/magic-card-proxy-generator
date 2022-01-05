@@ -1,0 +1,11 @@
+LINKMULTI = quantity
+LINK = cards.xlsx
+[range] = "1-14"
+CARDS=14
+CARDSIZE = 6.3, 8.8
+DPI=300
+IMAGEFILTER = LANCZOS
+OVERSAMPLE = 2
+FONTALIAS = [range], ON
+image=[range],[image],0,0,6.3, 8.8,0,N
+BORDER=RECTANGLE
