@@ -3,11 +3,11 @@ Magic: The Gathering card proxy generator written in Python.
 
 Using APIs from https://scryfall.com/ this script generates proxy on A4 paper, ready for cut and play.
 
-This script make .pdf with nanDECK (https://www.nandeck.com/) made by Andrea “Nand” Nini
+This script makes .pdf with nanDECK (https://www.nandeck.com/) made by Andrea “Nand” Nini
 
 # Instructions
 
-This script use a `.xlsx` file with this columns:
+This script uses a `.xlsx` file with this columns:
 - quantity: copies of card
 - name: the name that this script search on Scryfall
 - image: do not use
